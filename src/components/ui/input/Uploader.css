@@ -1,0 +1,16 @@
+input[type="file"] {
+    display: none;
+}
+
+.input-file {
+    display: inline-block;
+    text-transform: uppercase;
+    background-color: #2D3748;
+    color: #fff;
+    text-align: center;
+    padding: 5px 14px;
+    user-select: none;
+    cursor: pointer;
+    font-size: 0.9rem;
+    border-radius: 10px;
+}

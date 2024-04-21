@@ -1,0 +1,2382 @@
+{
+  "publishStatus": 1,
+  "syllabuseId": "13209e09-85f6-4fc7-9",
+  "timeAlocation": {
+    "assignment": 16.666666666666664,
+    "concept": 22.916666666666664,
+    "exam": 29.166666666666668,
+    "guide": 12.5,
+    "test": 18.75
+  },
+  "topicName": "topic5",
+  "trainingDays": [
+    {
+      "dayNumber": 1,
+      "trainingUnits": [
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "23c5c1c0-647d-46df-b864-077a664623a2",
+              "trainingMaterials": [
+                {
+                  "createdBy": "7b4f534d-a767-49f7-ade8-d3b1b030d038",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "d4cee649-f99d-4f77-b623-7f8eb88728d9",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "23c5c1c0-647d-46df-b864-077a664623a2"
+                },
+                {
+                  "createdBy": "d9fb6b43-7a14-48ae-8fc7-24ece47746e5",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "94ab9f59-d196-4e1b-b662-bd51bc66c813",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "23c5c1c0-647d-46df-b864-077a664623a2"
+                },
+                {
+                  "createdBy": "7ebc785a-a75c-4b8c-b0b0-4313585decb9",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "cbc89645-179e-4ea1-9d6e-e0dbc0029e5c",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "23c5c1c0-647d-46df-b864-077a664623a2"
+                },
+                {
+                  "createdBy": "80022d1c-366f-4389-8889-ce1a32d04add",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "ec898f7e-6943-413c-ae45-f7496ab1cb17",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "23c5c1c0-647d-46df-b864-077a664623a2"
+                }
+              ],
+              "unitCode": "5e249c50-afbd-4f51-b439-1cd2dd0c6169"
+            },
+            {
+              "deliveryType": "Test/Quiz",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H02",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "7dcc3d5f-566b-4ddd-941f-51c0ae13b9d0",
+              "trainingMaterials": [
+                {
+                  "createdBy": "5d81934c-b34e-4e93-9a01-24845e166e77",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "46b4ab94-6d26-481e-bc4d-421803a9665f",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7dcc3d5f-566b-4ddd-941f-51c0ae13b9d0"
+                },
+                {
+                  "createdBy": "dd37ca4d-1e44-4d76-a2eb-e08be3a47b11",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "449e3e89-d9ac-4019-aae3-594f816e922a",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7dcc3d5f-566b-4ddd-941f-51c0ae13b9d0"
+                },
+                {
+                  "createdBy": "00fdc719-e042-4c15-9bb0-309b834570c3",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "810ccef2-a037-4671-b400-7348613d44f4",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7dcc3d5f-566b-4ddd-941f-51c0ae13b9d0"
+                },
+                {
+                  "createdBy": "38662417-d665-4342-b933-27461367fe2b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "2c211919-2c62-43be-9940-af7687d6c2ec",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7dcc3d5f-566b-4ddd-941f-51c0ae13b9d0"
+                }
+              ],
+              "unitCode": "5e249c50-afbd-4f51-b439-1cd2dd0c6169"
+            },
+            {
+              "deliveryType": "Test/Quiz",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "7ad687e4-e1fb-4377-9f7c-b8ced37f9d2d",
+              "trainingMaterials": [
+                {
+                  "createdBy": "8712ec6f-4405-4880-a883-f72698dfda72",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "a22fe940-4d7d-4376-9579-7a84b410674a",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7ad687e4-e1fb-4377-9f7c-b8ced37f9d2d"
+                },
+                {
+                  "createdBy": "e96e0f16-ca5b-45f5-aeab-de88edc8f5e4",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "322fe7fa-f540-4b60-b158-b263d1081128",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7ad687e4-e1fb-4377-9f7c-b8ced37f9d2d"
+                },
+                {
+                  "createdBy": "4c8acdf2-6d5e-4af8-86f3-5565035737b7",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "5cafb0f8-7338-464e-80c6-ee12cd993334",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7ad687e4-e1fb-4377-9f7c-b8ced37f9d2d"
+                },
+                {
+                  "createdBy": "f2091b17-dbd1-4e1c-bfd5-316630e43e8c",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "c61e2827-5bcf-4b67-8c90-f5995d38b215",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7ad687e4-e1fb-4377-9f7c-b8ced37f9d2d"
+                }
+              ],
+              "unitCode": "5e249c50-afbd-4f51-b439-1cd2dd0c6169"
+            },
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "befa133a-9d51-4723-b9ce-eb8fe1a6e14d",
+              "trainingMaterials": [
+                {
+                  "createdBy": "51ab6fb4-5de1-442c-9f9b-7aa9281e83fb",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b1f45b2c-7886-4d5c-9a28-1911fcc974a5",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "befa133a-9d51-4723-b9ce-eb8fe1a6e14d"
+                },
+                {
+                  "createdBy": "5b8bb62e-1302-4500-ae24-3f23dc1a1ea5",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "decfa9ee-7ecf-4a15-bf51-5eae58326b9f",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "befa133a-9d51-4723-b9ce-eb8fe1a6e14d"
+                },
+                {
+                  "createdBy": "ce868461-47cd-4f62-bad0-1d7be6d266ba",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "913f4379-c3ff-4f03-982d-7d0a32d92053",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "befa133a-9d51-4723-b9ce-eb8fe1a6e14d"
+                },
+                {
+                  "createdBy": "d18594d9-04a6-4262-b0cb-e5469ba7aad9",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "869428c8-c715-46da-80d3-e191352c0544",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "befa133a-9d51-4723-b9ce-eb8fe1a6e14d"
+                }
+              ],
+              "unitCode": "5e249c50-afbd-4f51-b439-1cd2dd0c6169"
+            }
+          ],
+          "trainingDayId": "db2cc184-b1e6-485d-9bb5-95f0beeefa14",
+          "unitCode": "5e249c50-afbd-4f51-b439-1cd2dd0c6169",
+          "unitDuration": 4,
+          "unitName": "trnUnitName1"
+        },
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Test/Quiz",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "7476fa59-9805-48d1-9c0a-3a1574601419",
+              "trainingMaterials": [
+                {
+                  "createdBy": "81e5ed20-332f-4e93-90ad-555c5ce3a7e9",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b0ae3b56-c2f7-46ff-9e51-08bc1ebdc8cb",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7476fa59-9805-48d1-9c0a-3a1574601419"
+                },
+                {
+                  "createdBy": "005657cf-b6c9-4992-8edd-ee0dadafd8c1",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "7cd84228-5076-4931-9498-2006746a2773",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7476fa59-9805-48d1-9c0a-3a1574601419"
+                },
+                {
+                  "createdBy": "d9b9229a-1451-4453-b45c-840ad735ece9",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "41ab2a92-faf5-4724-81a8-9d79f0a1f112",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7476fa59-9805-48d1-9c0a-3a1574601419"
+                },
+                {
+                  "createdBy": "f7406afb-c71e-43d0-aeb5-41bd0591ee1a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "28e893a5-82af-4286-af4a-e491c365cb0c",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7476fa59-9805-48d1-9c0a-3a1574601419"
+                }
+              ],
+              "unitCode": "7adbeb41-2e88-4899-a327-2e127f673168"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "460b3076-b7b1-4666-803b-8d8d7d064b92",
+              "trainingMaterials": [
+                {
+                  "createdBy": "30701012-f0ba-4d43-952e-a237ccb7ec16",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "9ec894e4-d3a4-42aa-867b-0dc63a58cc63",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "460b3076-b7b1-4666-803b-8d8d7d064b92"
+                },
+                {
+                  "createdBy": "8c461baa-9796-41b8-b622-f209a5044a7f",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "4332f0ed-f5ca-4c23-83bf-3b17e8e3b068",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "460b3076-b7b1-4666-803b-8d8d7d064b92"
+                },
+                {
+                  "createdBy": "904cca39-4d32-4f43-bc6c-8848bbb65e75",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b17a1f02-4973-46bc-bfe0-bfaf7650420d",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "460b3076-b7b1-4666-803b-8d8d7d064b92"
+                },
+                {
+                  "createdBy": "565464ad-b196-46be-b27c-a90e7701cca6",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "5d477f83-66cd-4236-a2af-f6e7f493ae5e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "460b3076-b7b1-4666-803b-8d8d7d064b92"
+                }
+              ],
+              "unitCode": "7adbeb41-2e88-4899-a327-2e127f673168"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "5f9410ca-f5ec-4261-882a-a8d91a4a4b03",
+              "trainingMaterials": [
+                {
+                  "createdBy": "d6212d0a-836d-4f90-b021-935b179c29e2",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "3bc103c1-8618-4a4d-bccb-2f1e24a905d4",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "5f9410ca-f5ec-4261-882a-a8d91a4a4b03"
+                },
+                {
+                  "createdBy": "b9c55543-2fda-4e3d-b44d-e02df66d293f",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "44050058-1c7b-4ad9-89a2-73474bd4e0f6",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "5f9410ca-f5ec-4261-882a-a8d91a4a4b03"
+                },
+                {
+                  "createdBy": "c784b4be-d151-4bd8-8ff5-b5e0dcd05071",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "cf524b30-36e8-4644-a5b8-898d24348d4a",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "5f9410ca-f5ec-4261-882a-a8d91a4a4b03"
+                },
+                {
+                  "createdBy": "44563a2f-912d-4e15-810a-65815d6e557d",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "ed3ac888-1918-4dd4-a440-b4d08fbd9ab3",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "5f9410ca-f5ec-4261-882a-a8d91a4a4b03"
+                }
+              ],
+              "unitCode": "7adbeb41-2e88-4899-a327-2e127f673168"
+            },
+            {
+              "deliveryType": "Test/Quiz",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S02",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "847948d5-0b34-47d9-a76f-fc15d865c499",
+              "trainingMaterials": [
+                {
+                  "createdBy": "2b82c03d-9718-4d21-9c6e-72f359107bc4",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "37b66343-6c72-449b-a048-0cff88ec2546",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "847948d5-0b34-47d9-a76f-fc15d865c499"
+                },
+                {
+                  "createdBy": "649aa070-5598-46c0-89a7-6e60fbb3d6fe",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "d4620a7a-a5ea-4767-8bc7-4cbc8d2b7380",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "847948d5-0b34-47d9-a76f-fc15d865c499"
+                },
+                {
+                  "createdBy": "dc4667ee-540b-407e-8618-c7dd28b89f00",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "fbe06788-643d-4ec9-8a7d-b3279c74509c",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "847948d5-0b34-47d9-a76f-fc15d865c499"
+                },
+                {
+                  "createdBy": "11dd85b0-241e-4b2b-a25a-110b60c9834d",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "958af476-b372-4f4e-ad46-b76898d8be50",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "847948d5-0b34-47d9-a76f-fc15d865c499"
+                }
+              ],
+              "unitCode": "7adbeb41-2e88-4899-a327-2e127f673168"
+            }
+          ],
+          "trainingDayId": "db2cc184-b1e6-485d-9bb5-95f0beeefa14",
+          "unitCode": "7adbeb41-2e88-4899-a327-2e127f673168",
+          "unitDuration": 4,
+          "unitName": "trnUnitName2"
+        },
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Guide/Review",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "26bebeb4-90e9-40c0-bbd6-3d9f93ebae54",
+              "trainingMaterials": [
+                {
+                  "createdBy": "fbe57b29-e09e-47ce-8f5d-c34780c2b93a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "34ccebb3-93f7-4b3c-8fa8-29ab315d47a8",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "26bebeb4-90e9-40c0-bbd6-3d9f93ebae54"
+                },
+                {
+                  "createdBy": "fc88dbc0-72d5-4961-94f5-06cd3879dd54",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "05903dcc-1396-4af0-a60e-8597dd131746",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "26bebeb4-90e9-40c0-bbd6-3d9f93ebae54"
+                },
+                {
+                  "createdBy": "4af79000-adf2-48bf-8e38-37aab8509edb",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "a3709219-283e-4765-bedf-9f938cb42998",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "26bebeb4-90e9-40c0-bbd6-3d9f93ebae54"
+                },
+                {
+                  "createdBy": "218a2cbf-822c-4680-b396-5e504f08e3cf",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "e2159f57-5680-4c4d-9c81-addd53dae416",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "26bebeb4-90e9-40c0-bbd6-3d9f93ebae54"
+                }
+              ],
+              "unitCode": "80bb6b21-e9d6-4326-888a-7a67c68cffee"
+            },
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "9418b814-28cc-475e-bf8d-90d4f46f1fec",
+              "trainingMaterials": [
+                {
+                  "createdBy": "1f254c34-a08b-470c-9f1f-22aad1c4bf72",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b93bf451-44b0-4a87-9386-25eef70e58b4",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9418b814-28cc-475e-bf8d-90d4f46f1fec"
+                },
+                {
+                  "createdBy": "e3d59664-ef02-4003-8fe7-f8453f494afe",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "22bfcdfc-3a9d-4e6b-a943-6f5434a977ab",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9418b814-28cc-475e-bf8d-90d4f46f1fec"
+                },
+                {
+                  "createdBy": "c259375f-3a9f-417b-ad66-b249b93ec9d6",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b961a6e4-b34c-408f-9f4b-7e053e78caa3",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9418b814-28cc-475e-bf8d-90d4f46f1fec"
+                },
+                {
+                  "createdBy": "7de3018d-f9b9-4bde-a899-045c0151246a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "ca21be00-1c9e-4f80-bac0-9d6536354efd",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9418b814-28cc-475e-bf8d-90d4f46f1fec"
+                }
+              ],
+              "unitCode": "80bb6b21-e9d6-4326-888a-7a67c68cffee"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "c1eb3e0d-4cf6-4495-ac85-98b0cee08334",
+              "trainingMaterials": [
+                {
+                  "createdBy": "31025f63-56f5-4a94-9dfe-6abfc7b50f2b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "1ae37fb7-82b1-469a-9e86-5bcf5510f093",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c1eb3e0d-4cf6-4495-ac85-98b0cee08334"
+                },
+                {
+                  "createdBy": "9fb70c7d-7a21-4445-8ec6-c2e837ee7d9b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "4365ea8e-02d4-4b42-81f4-6c1f2f800a22",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c1eb3e0d-4cf6-4495-ac85-98b0cee08334"
+                },
+                {
+                  "createdBy": "97b71641-1fbe-4a65-93b2-9f805e421c9b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "33cb27e6-74fd-4a29-b9c0-9fcd3612bef5",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c1eb3e0d-4cf6-4495-ac85-98b0cee08334"
+                },
+                {
+                  "createdBy": "8c41734c-4284-4c1f-b3a3-1264476e174a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b1c4e4d5-6389-45c7-916a-d468d58354e2",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c1eb3e0d-4cf6-4495-ac85-98b0cee08334"
+                }
+              ],
+              "unitCode": "80bb6b21-e9d6-4326-888a-7a67c68cffee"
+            },
+            {
+              "deliveryType": "Guide/Review",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "9876e135-cb73-4f24-b7d8-ee767f112bc6",
+              "trainingMaterials": [
+                {
+                  "createdBy": "ada7b075-a9a1-4e4b-b0c7-ffd38b084e99",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "870d5216-0ca1-4008-9819-82fa94788df7",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9876e135-cb73-4f24-b7d8-ee767f112bc6"
+                },
+                {
+                  "createdBy": "5698cb8a-24cb-45db-b77d-87258a269aad",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "a914ebf7-5f26-4f98-9253-98a2aeaf8963",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9876e135-cb73-4f24-b7d8-ee767f112bc6"
+                },
+                {
+                  "createdBy": "862d16f2-4451-4db3-8375-7eb76bf380a0",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "1ea1b716-e29f-4c33-80a4-aeee170edba1",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9876e135-cb73-4f24-b7d8-ee767f112bc6"
+                },
+                {
+                  "createdBy": "98ba9302-094c-47d6-bc55-3bce68f9de44",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b408d264-437a-4fd9-868d-f380c53bbe2e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9876e135-cb73-4f24-b7d8-ee767f112bc6"
+                }
+              ],
+              "unitCode": "80bb6b21-e9d6-4326-888a-7a67c68cffee"
+            }
+          ],
+          "trainingDayId": "db2cc184-b1e6-485d-9bb5-95f0beeefa14",
+          "unitCode": "80bb6b21-e9d6-4326-888a-7a67c68cffee",
+          "unitDuration": 4,
+          "unitName": "trnUnitName4"
+        },
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Assignment/lab",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "c796d91a-21f7-47f7-b366-7b43abb91e08",
+              "trainingMaterials": [
+                {
+                  "createdBy": "800cf747-8116-4e7b-ac29-7ff3502c7005",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "ac14af82-00a6-4374-8865-89b3da028cb6",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c796d91a-21f7-47f7-b366-7b43abb91e08"
+                },
+                {
+                  "createdBy": "76ced502-2f12-418e-9718-9c96af78ce71",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "71cff905-0033-4c31-9ee0-9c928a7eb23d",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c796d91a-21f7-47f7-b366-7b43abb91e08"
+                },
+                {
+                  "createdBy": "433606ca-d924-4306-8559-f2e457edfee4",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "da5780da-a2ae-4ca5-9abe-c1966920b735",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c796d91a-21f7-47f7-b366-7b43abb91e08"
+                },
+                {
+                  "createdBy": "13abe06d-2e4b-47e6-b403-490dac09d764",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "0c8d94f9-29f2-4877-92ec-ff28e19730d3",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c796d91a-21f7-47f7-b366-7b43abb91e08"
+                }
+              ],
+              "unitCode": "6d41898f-8b83-4a54-a7dc-90838974b388"
+            },
+            {
+              "deliveryType": "Assignment/lab",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "c773d3c6-0e25-4aa2-82b6-80de6ff6ebd2",
+              "trainingMaterials": [
+                {
+                  "createdBy": "3d62dad9-df58-4234-bda8-ca0b1deead1e",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "795e396e-c43c-451d-a020-074c2789e4c1",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c773d3c6-0e25-4aa2-82b6-80de6ff6ebd2"
+                },
+                {
+                  "createdBy": "d335557a-eaf8-4df9-961f-b4a474048e13",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "e73bc12a-8c79-4728-ab8e-73b48b16a0ab",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c773d3c6-0e25-4aa2-82b6-80de6ff6ebd2"
+                },
+                {
+                  "createdBy": "266be3f4-2fc7-4ba8-8b85-0b601073e997",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "cb6f6b53-95e4-4d7f-b895-78fb1d81f90d",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c773d3c6-0e25-4aa2-82b6-80de6ff6ebd2"
+                },
+                {
+                  "createdBy": "a5dc1b76-a1ad-4f9a-878b-b9d8056c4b98",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "814ccac2-b17b-453a-9004-c245aef3aba4",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c773d3c6-0e25-4aa2-82b6-80de6ff6ebd2"
+                }
+              ],
+              "unitCode": "6d41898f-8b83-4a54-a7dc-90838974b388"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "4607f0cc-04fd-4c33-80d4-81f203105457",
+              "trainingMaterials": [
+                {
+                  "createdBy": "a58ff659-59a4-4c04-8d01-3ec2ab9b8241",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "87e53a76-f622-4dc4-b01d-4207943ef151",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "4607f0cc-04fd-4c33-80d4-81f203105457"
+                },
+                {
+                  "createdBy": "44575b93-10e3-48f4-b9a7-968c38997266",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "7cece987-936b-472f-8471-9402e88b0fdc",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "4607f0cc-04fd-4c33-80d4-81f203105457"
+                },
+                {
+                  "createdBy": "99644d2b-0cc6-4075-8c28-ccd0f1e3ad7f",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "d36c6641-2db5-4f34-9593-d30218e43be8",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "4607f0cc-04fd-4c33-80d4-81f203105457"
+                },
+                {
+                  "createdBy": "a23690f8-39e4-4b2e-b38b-7da8ff6f522c",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "5fbd6564-d2c6-4bcc-aead-dacb896e8ad4",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "4607f0cc-04fd-4c33-80d4-81f203105457"
+                }
+              ],
+              "unitCode": "6d41898f-8b83-4a54-a7dc-90838974b388"
+            },
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "3bcb79c8-333c-4245-b38b-a0827fec91d9",
+              "trainingMaterials": [
+                {
+                  "createdBy": "aa3fb800-109d-4d52-9e07-5150b9c73b58",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "710bd994-2c39-4edb-8ce3-42780810f6c5",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3bcb79c8-333c-4245-b38b-a0827fec91d9"
+                },
+                {
+                  "createdBy": "66304932-444a-4848-a791-3d1fd22bb94b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "f65fd2c7-f880-41c8-8720-84d87f507c3a",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3bcb79c8-333c-4245-b38b-a0827fec91d9"
+                },
+                {
+                  "createdBy": "097390bc-0368-4591-98c8-9f0ebcbe1733",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "7c4f402d-d445-4eb7-8df6-ae73c121f8f0",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3bcb79c8-333c-4245-b38b-a0827fec91d9"
+                },
+                {
+                  "createdBy": "8d922e4f-5512-40ba-88c8-3cc1820e45cf",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "50fce2be-2082-4687-b656-e05d7840064a",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3bcb79c8-333c-4245-b38b-a0827fec91d9"
+                }
+              ],
+              "unitCode": "6d41898f-8b83-4a54-a7dc-90838974b388"
+            }
+          ],
+          "trainingDayId": "db2cc184-b1e6-485d-9bb5-95f0beeefa14",
+          "unitCode": "6d41898f-8b83-4a54-a7dc-90838974b388",
+          "unitDuration": 4,
+          "unitName": "trnUnitName3"
+        }
+      ]
+    },
+    {
+      "dayNumber": 1,
+      "trainingUnits": [
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Test/Quiz",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "bb0c9056-9d5a-4ba2-a074-0e986ff4e11a",
+              "trainingMaterials": [
+                {
+                  "createdBy": "08f09186-f3ca-4743-96aa-7438dd7ff513",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "a8a6d924-6bb5-4d6b-8260-5283fd104372",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "bb0c9056-9d5a-4ba2-a074-0e986ff4e11a"
+                },
+                {
+                  "createdBy": "179be623-4e94-4b07-bffb-5ae49ee19f87",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "564f83fb-5902-45b6-8d36-dd288dc1498b",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "bb0c9056-9d5a-4ba2-a074-0e986ff4e11a"
+                },
+                {
+                  "createdBy": "1f1ed2a4-3671-45ac-ad2d-36ace91f2a5d",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "467ee97f-415e-43c6-85d8-eea937d2a854",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "bb0c9056-9d5a-4ba2-a074-0e986ff4e11a"
+                },
+                {
+                  "createdBy": "feab49dd-6a1f-41ac-a39f-a1a2fda110d3",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "2a9a7ed7-e917-4f3f-a774-f58016f03b5d",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "bb0c9056-9d5a-4ba2-a074-0e986ff4e11a"
+                }
+              ],
+              "unitCode": "fb21ee16-10ec-4354-bea0-3fb200ee7eb6"
+            },
+            {
+              "deliveryType": "Test/Quiz",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "d3994f83-efb6-4cf2-aa4a-1edabb887a68",
+              "trainingMaterials": [
+                {
+                  "createdBy": "1cbe50d1-c1f3-46e7-8879-e9e83f119069",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "e0312243-2420-413d-9cda-0805c63a6bc9",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "d3994f83-efb6-4cf2-aa4a-1edabb887a68"
+                },
+                {
+                  "createdBy": "24f37cce-43f6-4c93-8a2d-6511569aeb25",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "19709e52-eb10-43bb-a981-bad11e1b22a5",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "d3994f83-efb6-4cf2-aa4a-1edabb887a68"
+                },
+                {
+                  "createdBy": "c02066b7-4856-432b-8abd-ea594240c2d6",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "bd786cac-5fd2-4bed-9aef-bf17b275e7b3",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "d3994f83-efb6-4cf2-aa4a-1edabb887a68"
+                },
+                {
+                  "createdBy": "327e1012-371e-4259-b981-3f2b3cc68192",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "de7d9412-2056-4b79-9217-dff8f8a41039",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "d3994f83-efb6-4cf2-aa4a-1edabb887a68"
+                }
+              ],
+              "unitCode": "fb21ee16-10ec-4354-bea0-3fb200ee7eb6"
+            },
+            {
+              "deliveryType": "Assignment/lab",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H02",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "769ba626-4749-437b-91b0-4745ac89ad95",
+              "trainingMaterials": [
+                {
+                  "createdBy": "019667c1-9b85-46e9-aa62-597bcda55b1e",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "a64842c0-ba4d-4f01-8182-6f024e71303d",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "769ba626-4749-437b-91b0-4745ac89ad95"
+                },
+                {
+                  "createdBy": "faeee6f9-e650-49c3-b62d-830238b08ea1",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "58bb53aa-1ddd-479c-9f4e-9ff8c24c1f12",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "769ba626-4749-437b-91b0-4745ac89ad95"
+                },
+                {
+                  "createdBy": "a056b759-11d7-4407-b079-5639e911a8fa",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "aa474101-b627-4644-9e4b-bf715b666986",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "769ba626-4749-437b-91b0-4745ac89ad95"
+                },
+                {
+                  "createdBy": "c710524c-cd11-4213-a1b3-c98f2c12e1d3",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "e0351408-4ba9-400f-966b-c130dac7492e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "769ba626-4749-437b-91b0-4745ac89ad95"
+                }
+              ],
+              "unitCode": "fb21ee16-10ec-4354-bea0-3fb200ee7eb6"
+            },
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "d8997009-984f-4603-a661-d430ec2501ad",
+              "trainingMaterials": [
+                {
+                  "createdBy": "8f5a48f2-57d6-4e4b-bbfe-bfacc7994543",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "36619ace-7f33-4786-b0cb-76e411aa3c34",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "d8997009-984f-4603-a661-d430ec2501ad"
+                },
+                {
+                  "createdBy": "39d359b3-9b21-43ff-bdfa-2d13999455cc",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "8725314b-1488-47da-9ab6-9c0a0368f598",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "d8997009-984f-4603-a661-d430ec2501ad"
+                },
+                {
+                  "createdBy": "3f3eee0b-c4e3-4ffb-8702-22e7ffb4945f",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "53f887ce-0680-43fa-8fbb-9d0b27b74a30",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "d8997009-984f-4603-a661-d430ec2501ad"
+                },
+                {
+                  "createdBy": "d05dfa32-47a7-425f-9a74-7d12a08872a8",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "a3a128e2-137d-40be-8018-fbd1e0e8dc58",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "d8997009-984f-4603-a661-d430ec2501ad"
+                }
+              ],
+              "unitCode": "fb21ee16-10ec-4354-bea0-3fb200ee7eb6"
+            }
+          ],
+          "trainingDayId": "120d983f-8c9d-4ec2-9c68-e8e6662273f4",
+          "unitCode": "fb21ee16-10ec-4354-bea0-3fb200ee7eb6",
+          "unitDuration": 4,
+          "unitName": "trnUnitName2"
+        },
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Assignment/lab",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S02",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "206012bf-ed86-49e8-b8d4-0e349ff25440",
+              "trainingMaterials": [
+                {
+                  "createdBy": "abf3c5ba-e758-43ca-9631-86e3c8c537e9",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "62f20405-a431-4267-b0d9-10b64b79e615",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "206012bf-ed86-49e8-b8d4-0e349ff25440"
+                },
+                {
+                  "createdBy": "fb698bb6-583e-4e2c-a7f4-24b56f95c75e",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "57a91825-7fe0-4da3-8dda-37153e5597ba",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "206012bf-ed86-49e8-b8d4-0e349ff25440"
+                },
+                {
+                  "createdBy": "3aa90ebd-a29e-4324-8369-a7d7d131875b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "eb82150e-00dd-402f-97a7-e6a76bf0eee2",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "206012bf-ed86-49e8-b8d4-0e349ff25440"
+                },
+                {
+                  "createdBy": "ba0e8004-d66b-4647-b964-4ee66f713372",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "40f9d0b7-4d0f-43fd-b2a2-f9b94e631e9f",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "206012bf-ed86-49e8-b8d4-0e349ff25440"
+                }
+              ],
+              "unitCode": "c9ca9e37-3f2f-4542-83f9-92286fbe2bd3"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "604e07c9-3b27-4505-bad0-2e9fbd356e58",
+              "trainingMaterials": [
+                {
+                  "createdBy": "51bb62c0-534c-42b4-bb0b-a7a41f141153",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b3cdf798-9558-4493-bc4d-5a7810af2214",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "604e07c9-3b27-4505-bad0-2e9fbd356e58"
+                },
+                {
+                  "createdBy": "e4e78c5e-f5a0-4e91-8fcc-eff18ecc9b37",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "45ed5b31-e22e-45cb-8532-b4f094928b05",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "604e07c9-3b27-4505-bad0-2e9fbd356e58"
+                },
+                {
+                  "createdBy": "3db1423f-833e-437a-93a9-09f8b34bd4c2",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "efd1e7a0-8495-4256-a48e-e00f6dfbbcb9",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "604e07c9-3b27-4505-bad0-2e9fbd356e58"
+                },
+                {
+                  "createdBy": "f2d66dcf-b953-4196-9708-b4d668b2a953",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "18ce62f0-6dbb-4295-87ce-e016bbdecacd",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "604e07c9-3b27-4505-bad0-2e9fbd356e58"
+                }
+              ],
+              "unitCode": "c9ca9e37-3f2f-4542-83f9-92286fbe2bd3"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "5487d930-bee7-4d0c-8e4d-85b50b6bf3db",
+              "trainingMaterials": [
+                {
+                  "createdBy": "fe1db5f9-d65f-4ba1-9054-4e7989a30ec2",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "8ea547a3-7e3e-4632-8312-1ff3df0388a6",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "5487d930-bee7-4d0c-8e4d-85b50b6bf3db"
+                },
+                {
+                  "createdBy": "4f0dea08-0b9d-4582-88f8-20d7d5f23de3",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "780bb168-6049-48b4-884b-6b1426c259a6",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "5487d930-bee7-4d0c-8e4d-85b50b6bf3db"
+                },
+                {
+                  "createdBy": "18ee73f2-a92d-4c00-b734-8a72de4c6438",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "1242e808-b3fb-4fc7-8e3d-73cdd297d63a",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "5487d930-bee7-4d0c-8e4d-85b50b6bf3db"
+                },
+                {
+                  "createdBy": "d97bc939-7c77-4350-a9c1-70b51ec620be",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "6eeac6e0-ff02-47ba-8007-930bfc3f3c49",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "5487d930-bee7-4d0c-8e4d-85b50b6bf3db"
+                }
+              ],
+              "unitCode": "c9ca9e37-3f2f-4542-83f9-92286fbe2bd3"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "08dc0935-dee8-464a-8124-d26f782a4316",
+              "trainingMaterials": [
+                {
+                  "createdBy": "cbf4256e-6a57-4da5-bdaf-0e9911c91217",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "cda3ee44-7e96-41fb-82ca-20fdcd60143d",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "08dc0935-dee8-464a-8124-d26f782a4316"
+                },
+                {
+                  "createdBy": "931d8c12-4bf1-4c1d-8270-68297ba0b209",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "84f22bd6-9709-4c29-96e1-77323938bcc0",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "08dc0935-dee8-464a-8124-d26f782a4316"
+                },
+                {
+                  "createdBy": "ac5128be-ae89-48f3-80d6-cd0499272b8d",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b6cedc93-d8c0-446e-9042-b6a8591f26dd",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "08dc0935-dee8-464a-8124-d26f782a4316"
+                },
+                {
+                  "createdBy": "3d21676a-9da4-4fec-bec1-4525b87b3bfe",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "021cb196-b79d-44aa-8420-b818d6f87c5b",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "08dc0935-dee8-464a-8124-d26f782a4316"
+                }
+              ],
+              "unitCode": "c9ca9e37-3f2f-4542-83f9-92286fbe2bd3"
+            }
+          ],
+          "trainingDayId": "120d983f-8c9d-4ec2-9c68-e8e6662273f4",
+          "unitCode": "c9ca9e37-3f2f-4542-83f9-92286fbe2bd3",
+          "unitDuration": 4,
+          "unitName": "trnUnitName3"
+        },
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "e3896653-c3ff-44cc-8b8a-60cadd73de46",
+              "trainingMaterials": [
+                {
+                  "createdBy": "5d56fd98-6d15-4f26-80d6-6150abce9371",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "6c6f8518-54fc-48b0-b691-35be91876e57",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "e3896653-c3ff-44cc-8b8a-60cadd73de46"
+                },
+                {
+                  "createdBy": "b7d8edde-e64a-49b7-952b-1887287e80ec",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "c1adb9cb-9c60-41a4-8f12-37ab01114906",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "e3896653-c3ff-44cc-8b8a-60cadd73de46"
+                },
+                {
+                  "createdBy": "9655b2f0-827a-4d34-b7ce-37e8de400481",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "465bca27-3f47-41a3-a1f0-adbab1a1e74e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "e3896653-c3ff-44cc-8b8a-60cadd73de46"
+                },
+                {
+                  "createdBy": "37cd6054-caec-4925-97c9-3d0b97ca31c0",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "1838ad62-e87d-4ced-8527-ff99029924ca",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "e3896653-c3ff-44cc-8b8a-60cadd73de46"
+                }
+              ],
+              "unitCode": "8b4a22b1-fb52-43ed-b9a7-cbd2e4be6d6e"
+            },
+            {
+              "deliveryType": "Assignment/lab",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "3b04c114-9eae-4864-b8fd-a2913891f10e",
+              "trainingMaterials": [
+                {
+                  "createdBy": "893199df-a072-44ee-b343-b5444ece2950",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "9c9d5124-22d9-483c-b869-38415f74a994",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3b04c114-9eae-4864-b8fd-a2913891f10e"
+                },
+                {
+                  "createdBy": "cc1de44e-e9d6-4c4c-a710-57920842c7ad",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "cbd53147-ecaf-46a0-89c4-4f8ec195868e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3b04c114-9eae-4864-b8fd-a2913891f10e"
+                },
+                {
+                  "createdBy": "5c91882a-5389-4f9e-865b-5f0181453fbf",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "fbfd6c47-7f07-4eaa-bdd7-e6c6e872f88b",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3b04c114-9eae-4864-b8fd-a2913891f10e"
+                },
+                {
+                  "createdBy": "3efd2fb8-018a-4717-a608-e9d4f3e0f9f9",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "dd5bd3ab-74b5-44bf-8064-e833f3769e09",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3b04c114-9eae-4864-b8fd-a2913891f10e"
+                }
+              ],
+              "unitCode": "8b4a22b1-fb52-43ed-b9a7-cbd2e4be6d6e"
+            },
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K02",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "c4848521-d705-41fc-bbcc-a714cb1b9fe6",
+              "trainingMaterials": [
+                {
+                  "createdBy": "5d776bed-a5c6-44a9-8643-dc4fb414fb33",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "bc857013-06b1-4241-af1a-01f2b342b562",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c4848521-d705-41fc-bbcc-a714cb1b9fe6"
+                },
+                {
+                  "createdBy": "6d795f82-8245-448a-a3c6-e1f9101085ba",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "5b567824-9b74-4c42-a36d-5a73e9b7fae1",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c4848521-d705-41fc-bbcc-a714cb1b9fe6"
+                },
+                {
+                  "createdBy": "631c9e04-6c55-4009-bfc1-d475ac5dd5e5",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "f9700cf6-0fed-4d02-8ecc-6df392136be7",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c4848521-d705-41fc-bbcc-a714cb1b9fe6"
+                },
+                {
+                  "createdBy": "79c3b27f-86ff-429e-8c6b-00b99fc7d5c9",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "0d251ee1-f3f0-4076-98cd-7bbcb18d5ce9",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "c4848521-d705-41fc-bbcc-a714cb1b9fe6"
+                }
+              ],
+              "unitCode": "8b4a22b1-fb52-43ed-b9a7-cbd2e4be6d6e"
+            },
+            {
+              "deliveryType": "Guide/Review",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "2acc030a-9b7b-47ba-a7e0-eec0bf3b754d",
+              "trainingMaterials": [
+                {
+                  "createdBy": "2f80197d-a5e3-4934-bd0b-07749d9591b5",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "c2a3ed5a-1e8d-4a87-8624-14c584aa312e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "2acc030a-9b7b-47ba-a7e0-eec0bf3b754d"
+                },
+                {
+                  "createdBy": "61498e92-ed73-4de1-a090-9ec3df8cd6a9",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "cd952ad1-7061-41d4-aa16-1fa1c53b23d4",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "2acc030a-9b7b-47ba-a7e0-eec0bf3b754d"
+                },
+                {
+                  "createdBy": "9db35a65-e7a4-415d-8090-f8b17cfa5329",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "f32b0e50-7363-47bc-b2ba-b18790a2b46e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "2acc030a-9b7b-47ba-a7e0-eec0bf3b754d"
+                },
+                {
+                  "createdBy": "b9d58b40-a1b3-47f2-8287-6036448f645c",
+                  "createdDate": "2024-04-06T22:02:02.973",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "69774669-2b1f-4540-9c0d-c0a7881a3e93",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "2acc030a-9b7b-47ba-a7e0-eec0bf3b754d"
+                }
+              ],
+              "unitCode": "8b4a22b1-fb52-43ed-b9a7-cbd2e4be6d6e"
+            }
+          ],
+          "trainingDayId": "120d983f-8c9d-4ec2-9c68-e8e6662273f4",
+          "unitCode": "8b4a22b1-fb52-43ed-b9a7-cbd2e4be6d6e",
+          "unitDuration": 4,
+          "unitName": "trnUnitName4"
+        },
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "35d63245-73f9-4ab5-b087-39027dea36dc",
+              "trainingMaterials": [
+                {
+                  "createdBy": "396f185b-2e1c-454f-b330-1f45532697ea",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "019a0d73-9fb9-4e11-b7c4-601819080c8b",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "35d63245-73f9-4ab5-b087-39027dea36dc"
+                },
+                {
+                  "createdBy": "3cd57afd-4021-40fa-9a17-aaebe6c0fa71",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "e5973819-d2ec-48e7-adb9-9281f6fd3830",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "35d63245-73f9-4ab5-b087-39027dea36dc"
+                },
+                {
+                  "createdBy": "7e2ef746-9e78-445e-a6c9-20a7871c8c64",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "70ba88e8-533e-4584-97c2-94a33552a862",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "35d63245-73f9-4ab5-b087-39027dea36dc"
+                },
+                {
+                  "createdBy": "1e75f40b-1ebb-4c7b-b34d-9ca9fec7984f",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "f69f9c7c-a4f9-4a3e-b800-95f24aff2122",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "35d63245-73f9-4ab5-b087-39027dea36dc"
+                }
+              ],
+              "unitCode": "0dffe1b1-5966-49f1-9d66-f16f0077a2ff"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "2b8c8a6f-975b-4f6c-bdfb-5d804f1ce559",
+              "trainingMaterials": [
+                {
+                  "createdBy": "9fbb82f3-deac-414b-9f85-7a30558d5e55",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "142badf8-400e-45c9-912f-353bb6e1c762",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "2b8c8a6f-975b-4f6c-bdfb-5d804f1ce559"
+                },
+                {
+                  "createdBy": "57e06917-8f5c-4875-a308-1880de27ebbc",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "525fc612-e240-4371-998b-36b2c51da7ab",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "2b8c8a6f-975b-4f6c-bdfb-5d804f1ce559"
+                },
+                {
+                  "createdBy": "bfb873e1-934e-4ec4-85b1-bb66d1c6dc97",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b18031cf-cd8f-439f-95bf-e65e091e5078",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "2b8c8a6f-975b-4f6c-bdfb-5d804f1ce559"
+                },
+                {
+                  "createdBy": "8e22e9e5-a622-4ac2-ac24-67eb2917dd03",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "3e9d33ac-91f4-4a51-84fc-f13e753a4fba",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "2b8c8a6f-975b-4f6c-bdfb-5d804f1ce559"
+                }
+              ],
+              "unitCode": "0dffe1b1-5966-49f1-9d66-f16f0077a2ff"
+            },
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "9404a6b8-9751-4c10-b556-b4980beee431",
+              "trainingMaterials": [
+                {
+                  "createdBy": "9bdbc603-10e1-4d4c-bb4b-f329fe4a50a7",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "d21d627d-d919-445b-8d0b-174018747ef8",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9404a6b8-9751-4c10-b556-b4980beee431"
+                },
+                {
+                  "createdBy": "fe5fe24a-1570-4369-81ce-18971e763aaa",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "dddfec4e-b473-4f75-a09d-5394fd6704cb",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9404a6b8-9751-4c10-b556-b4980beee431"
+                },
+                {
+                  "createdBy": "de1e26ec-6f42-4cd2-8629-9fd8823feab6",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "d43eab1d-406e-4360-b7fd-ca18a8be4023",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9404a6b8-9751-4c10-b556-b4980beee431"
+                },
+                {
+                  "createdBy": "1556eaa9-e512-4712-97d0-88d76e65323b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "1668d76a-9311-4029-951e-fd15d3a68e92",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "9404a6b8-9751-4c10-b556-b4980beee431"
+                }
+              ],
+              "unitCode": "0dffe1b1-5966-49f1-9d66-f16f0077a2ff"
+            },
+            {
+              "deliveryType": "Test/Quiz",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K02",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "f7fc0200-fcac-466c-ae00-c5b92e3b2ac9",
+              "trainingMaterials": [
+                {
+                  "createdBy": "e22965cc-36d5-4e54-abe6-db029f43a109",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "765c5ace-281a-4785-8dfa-4050abb916fb",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "f7fc0200-fcac-466c-ae00-c5b92e3b2ac9"
+                },
+                {
+                  "createdBy": "90b12ec1-96be-4458-aa98-ef58a3aba2ee",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "ec8c860b-f9b1-430e-a120-93fe3e89ff40",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "f7fc0200-fcac-466c-ae00-c5b92e3b2ac9"
+                },
+                {
+                  "createdBy": "3c01bee0-2eea-4e0b-85ee-3d659d048da1",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b1b9df54-1152-4ffd-83ca-b1bc9a938727",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "f7fc0200-fcac-466c-ae00-c5b92e3b2ac9"
+                },
+                {
+                  "createdBy": "e28b126a-6f62-4e2f-b4a2-32120f354e0d",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "17d400a3-443a-4763-b62c-f746b41f3dda",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "f7fc0200-fcac-466c-ae00-c5b92e3b2ac9"
+                }
+              ],
+              "unitCode": "0dffe1b1-5966-49f1-9d66-f16f0077a2ff"
+            }
+          ],
+          "trainingDayId": "120d983f-8c9d-4ec2-9c68-e8e6662273f4",
+          "unitCode": "0dffe1b1-5966-49f1-9d66-f16f0077a2ff",
+          "unitDuration": 4,
+          "unitName": "trnUnitName1"
+        }
+      ]
+    },
+    {
+      "dayNumber": 1,
+      "trainingUnits": [
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "28eb6a69-3343-4e6d-8cb1-66feaa3e3bac",
+              "trainingMaterials": [
+                {
+                  "createdBy": "08528b8f-0410-4e49-a16d-60e369d7eaef",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "3cce4e3b-8a3c-43cf-b0d6-6330782d1818",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "28eb6a69-3343-4e6d-8cb1-66feaa3e3bac"
+                },
+                {
+                  "createdBy": "5199db8f-5a81-4271-b240-5b3e0da7f36a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "52d3fbcd-138b-4bb1-8d48-85f6b90a7a88",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "28eb6a69-3343-4e6d-8cb1-66feaa3e3bac"
+                },
+                {
+                  "createdBy": "ca6eed9b-9f85-4608-b470-615f82307843",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "d3b02ac7-b158-4fa6-a200-fd2b5bc8eb1a",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "28eb6a69-3343-4e6d-8cb1-66feaa3e3bac"
+                },
+                {
+                  "createdBy": "1e1e1a08-6304-4f93-99d4-fbdd92f92340",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "2bd34b17-cada-47c8-a77a-fe317a719d18",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "28eb6a69-3343-4e6d-8cb1-66feaa3e3bac"
+                }
+              ],
+              "unitCode": "cbde1fe1-1fc8-4ef1-a3e4-1b2c818e776b"
+            },
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "7dabbedb-f620-47de-b2b8-8e46f1897883",
+              "trainingMaterials": [
+                {
+                  "createdBy": "3efa8674-a830-4455-b027-2c2e52078aa5",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "287b94a3-5189-4cce-8719-420dcc3c9491",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7dabbedb-f620-47de-b2b8-8e46f1897883"
+                },
+                {
+                  "createdBy": "8cd788be-30db-4112-b74b-1db03b9780c2",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "4de6ef51-1a95-42e3-b0fd-9e3e883b9506",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7dabbedb-f620-47de-b2b8-8e46f1897883"
+                },
+                {
+                  "createdBy": "b99ceb24-b840-4b55-8c66-ad4581d2cf65",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "875d9efb-1a3c-4d83-a971-fbb2e924e3a7",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7dabbedb-f620-47de-b2b8-8e46f1897883"
+                },
+                {
+                  "createdBy": "960a2615-369a-4304-b27c-4fd106cacb5f",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "67634670-b7ce-49c8-8a28-fe6b18cc27b0",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "7dabbedb-f620-47de-b2b8-8e46f1897883"
+                }
+              ],
+              "unitCode": "cbde1fe1-1fc8-4ef1-a3e4-1b2c818e776b"
+            },
+            {
+              "deliveryType": "Assignment/lab",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "3ababf5f-6cdc-4706-9d70-aaf5b27f2483",
+              "trainingMaterials": [
+                {
+                  "createdBy": "2e540433-32a9-4c79-83c1-1b7da3c0bd6b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "c4f1f1b5-0a55-421c-8b3c-1419a71e9e0b",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3ababf5f-6cdc-4706-9d70-aaf5b27f2483"
+                },
+                {
+                  "createdBy": "23c3fe1d-0461-4fae-a72b-cc09c48b229e",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "975dce84-9da3-4d4b-b2d6-bc9b6f257211",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3ababf5f-6cdc-4706-9d70-aaf5b27f2483"
+                },
+                {
+                  "createdBy": "5b8ba24a-c1f7-4294-81fe-e337acb6b872",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "526587e0-d6cb-4859-bf40-c98991a4a1fb",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3ababf5f-6cdc-4706-9d70-aaf5b27f2483"
+                },
+                {
+                  "createdBy": "4d768d13-8c5d-43d2-a268-4d26e1869c68",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "a499494f-99c0-4379-913e-ea7fe0e66c4a",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3ababf5f-6cdc-4706-9d70-aaf5b27f2483"
+                }
+              ],
+              "unitCode": "cbde1fe1-1fc8-4ef1-a3e4-1b2c818e776b"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A02",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "855f4fad-b104-4f37-9d76-e73fa1598100",
+              "trainingMaterials": [
+                {
+                  "createdBy": "85d5f883-f634-4b55-98a9-775ab2ca2f65",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "cdcb5981-efd9-4574-819c-305ee27156cd",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "855f4fad-b104-4f37-9d76-e73fa1598100"
+                },
+                {
+                  "createdBy": "08e1d479-12e2-4dc9-8b84-6bfb10a645f6",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "2cbb9eef-6042-4e03-b1e2-89faf6aca58c",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "855f4fad-b104-4f37-9d76-e73fa1598100"
+                },
+                {
+                  "createdBy": "20de54be-806c-497a-8748-168f87c6185a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "786a9138-8c15-4aa7-955f-91a340b79900",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "855f4fad-b104-4f37-9d76-e73fa1598100"
+                },
+                {
+                  "createdBy": "46b1ad47-6985-4a3b-b940-3b3c871c49d5",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "5b51c995-9161-46bb-9f33-9f6c45b1822e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "855f4fad-b104-4f37-9d76-e73fa1598100"
+                }
+              ],
+              "unitCode": "cbde1fe1-1fc8-4ef1-a3e4-1b2c818e776b"
+            }
+          ],
+          "trainingDayId": "f2572691-917b-4c81-a9a8-edd4a268cf1e",
+          "unitCode": "cbde1fe1-1fc8-4ef1-a3e4-1b2c818e776b",
+          "unitDuration": 4,
+          "unitName": "trnUnitName1"
+        },
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Test/Quiz",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "237fe227-7756-4414-a938-11b69f17d237",
+              "trainingMaterials": [
+                {
+                  "createdBy": "554f65a2-9ecb-4a45-897e-a8222dda7582",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "2e4de03e-b435-4a4d-9ef8-b5a9a29dcfd1",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "237fe227-7756-4414-a938-11b69f17d237"
+                },
+                {
+                  "createdBy": "1b30f061-ea9d-4f49-b587-30221781a432",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "449005cf-cece-42b8-a7b7-e891c7b04972",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "237fe227-7756-4414-a938-11b69f17d237"
+                },
+                {
+                  "createdBy": "01f932e0-7f90-4dd8-8abf-a345d69986d5",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b8c854dd-7223-41f2-ba2d-ea1dd6783e89",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "237fe227-7756-4414-a938-11b69f17d237"
+                },
+                {
+                  "createdBy": "90fcb20b-5925-412b-90f7-cd475f3f5f1c",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "795f202f-6d25-47da-bba6-eec070218452",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "237fe227-7756-4414-a938-11b69f17d237"
+                }
+              ],
+              "unitCode": "7fa5eedc-61e1-4067-96e7-1b8a31e4fa9e"
+            },
+            {
+              "deliveryType": "Guide/Review",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "b5b5ac0c-9d17-4583-827d-6e5ca5cb654b",
+              "trainingMaterials": [
+                {
+                  "createdBy": "1516f879-d023-4e16-96b1-b297588aaf0c",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "e08fed1f-6a36-45cf-91cf-11ec3b1f9bf5",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "b5b5ac0c-9d17-4583-827d-6e5ca5cb654b"
+                },
+                {
+                  "createdBy": "ab9714fc-0fbf-4044-94dd-968d02e0431a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "327bc65c-3627-4d0e-9714-609ffc2f80f7",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "b5b5ac0c-9d17-4583-827d-6e5ca5cb654b"
+                },
+                {
+                  "createdBy": "a227c840-a7bd-405e-92f7-2e345ea829a8",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "f2b4f904-734c-4c9f-940b-709851b4ae34",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "b5b5ac0c-9d17-4583-827d-6e5ca5cb654b"
+                },
+                {
+                  "createdBy": "5944642b-c3ab-46cc-96d4-c14b5f51bba2",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "f976cdf4-75f0-449a-a5f2-ea63c4fffabf",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "b5b5ac0c-9d17-4583-827d-6e5ca5cb654b"
+                }
+              ],
+              "unitCode": "7fa5eedc-61e1-4067-96e7-1b8a31e4fa9e"
+            },
+            {
+              "deliveryType": "Assignment/lab",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "f1727d82-17fc-4f86-8b85-9d918ee2d892",
+              "trainingMaterials": [
+                {
+                  "createdBy": "97d9fd80-9c6b-4c09-ab2c-6f2c81420150",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "8d2917df-1dd7-495f-92c3-0bc7d11f3b8d",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "f1727d82-17fc-4f86-8b85-9d918ee2d892"
+                },
+                {
+                  "createdBy": "0be5dc46-3803-4a45-be66-27c2e499c5f3",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "c8f72880-150b-4d1a-817a-a0883b86d92a",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "f1727d82-17fc-4f86-8b85-9d918ee2d892"
+                },
+                {
+                  "createdBy": "fc383dd4-d261-4962-994a-e3aec2362ada",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "8fb58e6d-2051-444c-84ee-a2f22c430a51",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "f1727d82-17fc-4f86-8b85-9d918ee2d892"
+                },
+                {
+                  "createdBy": "b7392e36-fced-4e57-a0ab-75b0aadcd5f7",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "e3d809d4-90b8-4c94-b685-ab266802d65b",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "f1727d82-17fc-4f86-8b85-9d918ee2d892"
+                }
+              ],
+              "unitCode": "7fa5eedc-61e1-4067-96e7-1b8a31e4fa9e"
+            },
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "93bc793a-3cd9-458b-9490-ccf6bca883f0",
+              "trainingMaterials": [
+                {
+                  "createdBy": "8a90042a-ac8e-4e6b-8566-9b56ccfde2a1",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "1010586d-3473-4b9d-acf4-23f8da85d685",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "93bc793a-3cd9-458b-9490-ccf6bca883f0"
+                },
+                {
+                  "createdBy": "bc48a09e-4dac-49a4-a61e-0b5df3c6b023",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "42b81716-69c4-46da-af0b-4350bfd1cf92",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "93bc793a-3cd9-458b-9490-ccf6bca883f0"
+                },
+                {
+                  "createdBy": "1a4c79f3-14c3-43e5-8e0e-55e03751fd8f",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "be04d035-ca10-4fe5-9216-5677e4ff9beb",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "93bc793a-3cd9-458b-9490-ccf6bca883f0"
+                },
+                {
+                  "createdBy": "ed3d9ff6-c90a-4ebb-8752-21658385a1e5",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "ef99dc9a-2467-4fb7-a05c-e93eaa3a8f0b",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "93bc793a-3cd9-458b-9490-ccf6bca883f0"
+                }
+              ],
+              "unitCode": "7fa5eedc-61e1-4067-96e7-1b8a31e4fa9e"
+            }
+          ],
+          "trainingDayId": "f2572691-917b-4c81-a9a8-edd4a268cf1e",
+          "unitCode": "7fa5eedc-61e1-4067-96e7-1b8a31e4fa9e",
+          "unitDuration": 4,
+          "unitName": "trnUnitName2"
+        },
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Assignment/lab",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "H04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "1a9e39f2-b781-474c-afaf-0767a3bc76ac",
+              "trainingMaterials": [
+                {
+                  "createdBy": "23c668ab-4ea4-46b8-9826-70a6a7848214",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "a14896da-cfc6-45c0-a65f-124d3bf0531e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "1a9e39f2-b781-474c-afaf-0767a3bc76ac"
+                },
+                {
+                  "createdBy": "7fddaa8b-23ad-4322-bbb3-17482dcb6cff",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "3c1cc9bb-11bf-4d5e-843c-50de1cc33446",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "1a9e39f2-b781-474c-afaf-0767a3bc76ac"
+                },
+                {
+                  "createdBy": "b2c693ea-c3d6-48a8-bd6f-b202b4ee735e",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "8e2d27cd-680d-4f11-8056-b5264575d388",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "1a9e39f2-b781-474c-afaf-0767a3bc76ac"
+                },
+                {
+                  "createdBy": "b394830c-c649-4344-959d-06f03835542a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "de05c4bb-418f-4af2-9545-fe851dc1ee0e",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "1a9e39f2-b781-474c-afaf-0767a3bc76ac"
+                }
+              ],
+              "unitCode": "08e037c2-d1fb-4387-99b0-e178b6f48c5d"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K04",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "1117b6c1-209c-4b1e-a70a-1f24cd43461d",
+              "trainingMaterials": [
+                {
+                  "createdBy": "1135ab22-13de-4017-8203-b7eb4c3b3e8b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "45de38fc-abcb-4016-99ea-026e8c3e0844",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "1117b6c1-209c-4b1e-a70a-1f24cd43461d"
+                },
+                {
+                  "createdBy": "6f9c4952-3980-49aa-9d4e-f1cb8b13729d",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "7c6614f2-0d80-4353-9b0d-2e80d3a0ad85",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "1117b6c1-209c-4b1e-a70a-1f24cd43461d"
+                },
+                {
+                  "createdBy": "321eef01-b469-4f3b-9ed6-0197a77fa2f4",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b70b1ab1-5ab9-4b3a-92d8-7540f6a7e34f",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "1117b6c1-209c-4b1e-a70a-1f24cd43461d"
+                },
+                {
+                  "createdBy": "179ce9ac-fde9-4884-a73e-bc98eca9b0ba",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "cb086455-2434-445d-9322-9c93562d4720",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "1117b6c1-209c-4b1e-a70a-1f24cd43461d"
+                }
+              ],
+              "unitCode": "08e037c2-d1fb-4387-99b0-e178b6f48c5d"
+            },
+            {
+              "deliveryType": "Test/Quiz",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "3612566c-4bb5-4c34-8de8-f7cdfafbfc55",
+              "trainingMaterials": [
+                {
+                  "createdBy": "dd78b656-6456-4526-8867-76467aa8c83d",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "8db5a33e-26c9-4afd-a5b5-044e5b4fb5c3",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3612566c-4bb5-4c34-8de8-f7cdfafbfc55"
+                },
+                {
+                  "createdBy": "0d74d8e1-795c-4f82-9136-d62e8e74bf6d",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "d760aced-917d-4207-a1b7-3d6bc2d7d304",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3612566c-4bb5-4c34-8de8-f7cdfafbfc55"
+                },
+                {
+                  "createdBy": "aeb28aa9-9935-4149-9184-32041c517e2a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "d9e30fa6-179a-4e13-a2ff-3e03d02c0084",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3612566c-4bb5-4c34-8de8-f7cdfafbfc55"
+                },
+                {
+                  "createdBy": "4c41b235-8fa7-4deb-aa2b-aa3d9b383991",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "5a877b18-0ddf-4f34-a270-7aa975e8566f",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "3612566c-4bb5-4c34-8de8-f7cdfafbfc55"
+                }
+              ],
+              "unitCode": "08e037c2-d1fb-4387-99b0-e178b6f48c5d"
+            },
+            {
+              "deliveryType": "Guide/Review",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "A03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "17c5206c-c817-4975-9b78-fd6e0b0db673",
+              "trainingMaterials": [
+                {
+                  "createdBy": "5bc33356-0a42-42c0-9559-91bb2a3a0d3a",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "729f3d01-3b0b-4c6b-959a-35467f5896fe",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "17c5206c-c817-4975-9b78-fd6e0b0db673"
+                },
+                {
+                  "createdBy": "3347935b-2641-4aa9-b673-c26378a1be7e",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "961368ee-2a1e-44d9-bc6f-6cc283fef912",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "17c5206c-c817-4975-9b78-fd6e0b0db673"
+                },
+                {
+                  "createdBy": "7a979c43-0198-4f9d-9ee4-aeec6485ccf9",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "5b256bb3-9345-4c3b-a1d4-6e70d926e451",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "17c5206c-c817-4975-9b78-fd6e0b0db673"
+                },
+                {
+                  "createdBy": "1532fd36-bb78-4cb6-8e3e-58fb9d7eab96",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "63de5e50-a412-44a6-94fb-e4c54c3e42ba",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "17c5206c-c817-4975-9b78-fd6e0b0db673"
+                }
+              ],
+              "unitCode": "08e037c2-d1fb-4387-99b0-e178b6f48c5d"
+            }
+          ],
+          "trainingDayId": "f2572691-917b-4c81-a9a8-edd4a268cf1e",
+          "unitCode": "08e037c2-d1fb-4387-99b0-e178b6f48c5d",
+          "unitDuration": 4,
+          "unitName": "trnUnitName4"
+        },
+        {
+          "trainingContents": [
+            {
+              "deliveryType": "Guide/Review",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K03",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "45be6941-3061-40a8-b5ef-1311a0558c52",
+              "trainingMaterials": [
+                {
+                  "createdBy": "1a11dcfc-a8df-4e3c-9e7f-2d1ae5e21293",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "60f8b547-a1c9-4fe5-b1e7-5d6a4e5a1f97",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "45be6941-3061-40a8-b5ef-1311a0558c52"
+                },
+                {
+                  "createdBy": "0ea6056e-49fe-4969-9499-f1cde8fb64fd",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "7f015453-4f93-4144-bb1d-7f3c0e25661c",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "45be6941-3061-40a8-b5ef-1311a0558c52"
+                },
+                {
+                  "createdBy": "7422f7e8-3db4-49f6-bf5f-eea2969ee1b5",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "69ee3bed-2cb3-415e-8f61-8ea95ed2e9fa",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "45be6941-3061-40a8-b5ef-1311a0558c52"
+                },
+                {
+                  "createdBy": "832d1102-0fd9-4bf5-a53c-329fe6472755",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "e659a5a3-401e-418a-8d8f-fd79a81c3dcd",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "45be6941-3061-40a8-b5ef-1311a0558c52"
+                }
+              ],
+              "unitCode": "9a7e5a4c-f184-4b20-9e43-e73cabae757e"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S01",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "51a935b5-81c5-4295-a0ea-13845486567c",
+              "trainingMaterials": [
+                {
+                  "createdBy": "c0c2af67-5c7c-4f46-acfe-86a5658d3c04",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "56b1f3dc-9883-4071-91c4-199cfa513c9f",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "51a935b5-81c5-4295-a0ea-13845486567c"
+                },
+                {
+                  "createdBy": "e17d5900-946b-4ff7-a6a1-19009c071325",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "91e54093-f267-4718-8722-1c543329d8d8",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "51a935b5-81c5-4295-a0ea-13845486567c"
+                },
+                {
+                  "createdBy": "baea0178-6c34-4fd0-8c00-2cfdc4c4a1a5",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "24ac9d00-f55a-46a9-81d9-21cfb4d2c8b2",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "51a935b5-81c5-4295-a0ea-13845486567c"
+                },
+                {
+                  "createdBy": "a7fbf816-6a98-4ef2-b198-f20ebc103377",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "9148fb69-b61a-4119-921e-4a0e4ee921a2",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "51a935b5-81c5-4295-a0ea-13845486567c"
+                }
+              ],
+              "unitCode": "9a7e5a4c-f184-4b20-9e43-e73cabae757e"
+            },
+            {
+              "deliveryType": "Exam",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "K02",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "655786af-b8d0-442b-b5a5-970c4ce806c7",
+              "trainingMaterials": [
+                {
+                  "createdBy": "2b36cb21-275e-4f9e-b7ff-ff03e5ca7018",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "1b2502de-478f-4b3d-b2da-19e0e6fad2f3",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "655786af-b8d0-442b-b5a5-970c4ce806c7"
+                },
+                {
+                  "createdBy": "40667e4b-ab41-4e8f-8be0-d0de6705a5a1",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "e0088674-622e-4b05-a2e4-2aae0d15aeb8",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "655786af-b8d0-442b-b5a5-970c4ce806c7"
+                },
+                {
+                  "createdBy": "c5c2620b-c4a8-4627-a7fe-bcf9c33b7705",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "b1ceed77-2627-46be-b69e-846774c0c3e4",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "655786af-b8d0-442b-b5a5-970c4ce806c7"
+                },
+                {
+                  "createdBy": "594d5ead-8790-4038-bdb1-85b6145154ec",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "385bd56c-ccfe-4af6-9b3f-ba298466eee7",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "655786af-b8d0-442b-b5a5-970c4ce806c7"
+                }
+              ],
+              "unitCode": "9a7e5a4c-f184-4b20-9e43-e73cabae757e"
+            },
+            {
+              "deliveryType": "Concept/Lecture",
+              "duration": 1,
+              "note": "",
+              "outputStandard": "S02",
+              "trainingContent1": "ahihi",
+              "trainingContentId": "edfe19de-6c0e-4022-b3c6-b414d1462353",
+              "trainingMaterials": [
+                {
+                  "createdBy": "fc9837a4-9ff1-4c8f-9677-45501a11715b",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "d6b075bd-e15c-45b7-858c-0df30dacf4f9",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "edfe19de-6c0e-4022-b3c6-b414d1462353"
+                },
+                {
+                  "createdBy": "e2f70cb7-2926-4ae0-9577-97b67404a918",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "2b51cb66-2cba-4b92-a01f-11381d17c5f4",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "edfe19de-6c0e-4022-b3c6-b414d1462353"
+                },
+                {
+                  "createdBy": "d0340c7b-42ed-4497-a008-a4e798e30f06",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "bfc809f5-a2ca-4ca4-b59a-54bbd7678c70",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "edfe19de-6c0e-4022-b3c6-b414d1462353"
+                },
+                {
+                  "createdBy": "601df7e0-bb4b-4ead-8e3d-ade24c089be0",
+                  "createdDate": "2024-04-06T22:02:02.97",
+                  "link": "https://www.facebook.com/bentran1vn",
+                  "materialId": "24591787-1e42-4d7b-8ab2-78f16c5e406d",
+                  "name": "Day la Tan",
+                  "status": true,
+                  "trainingContentId": "edfe19de-6c0e-4022-b3c6-b414d1462353"
+                }
+              ],
+              "unitCode": "9a7e5a4c-f184-4b20-9e43-e73cabae757e"
+            }
+          ],
+          "trainingDayId": "f2572691-917b-4c81-a9a8-edd4a268cf1e",
+          "unitCode": "9a7e5a4c-f184-4b20-9e43-e73cabae757e",
+          "unitDuration": 4,
+          "unitName": "trnUnitName3"
+        }
+      ]
+    }
+  ],
+  "version": "version"
+}
